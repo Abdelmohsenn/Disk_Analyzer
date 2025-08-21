@@ -60,10 +60,6 @@ walkdir = "2.3"      # Directory traversal
 serde = "1.0"        # Serialization
 ```
 
-## License
-
-MIT License
-
 ---
 
 **Built with Rust + Tauri for native performance and modern UI**
