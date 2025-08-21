@@ -23,8 +23,8 @@ A fast desktop application built with **Tauri** and **Rust** for analyzing disk 
 
 ```bash
 # Clone and install
-git clone https://github.com/your-username/disk-space-analyzer.git
-cd disk-space-analyzer
+https://github.com/Abdelmohsenn/Disk_Analyzer.git
+cd Disk_Analyzer
 cargo build
 
 # Development
